@@ -1,4 +1,4 @@
-# Conversion.NET [Alpha]
+# Conversion.NET [ alpha ]
 [![Build](https://ci.appveyor.com/api/projects/status/w9mywd8m1oo2owfu?svg=true)](https://ci.appveyor.com/project/skthomasjr/conversion)
 [![Release](https://img.shields.io/github/release/skthomasjr/Conversion.svg?maxAge=2592000)](https://github.com/skthomasjr/Conversion/releases)
 [![NuGet](https://img.shields.io/nuget/v/Conversion.NET.svg)](https://www.nuget.org/packages/Conversion.NET)
