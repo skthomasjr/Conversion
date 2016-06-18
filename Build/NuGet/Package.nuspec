@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Conversion.NET</id>
+    <version>0.0.0</version>
+    <authors>Scott Keith Thomas, Jr.</authors>
+    <description>Conversion.NET is a type conversion library.</description>
+    <tags>conversion convert</tags>
+    <iconUrl>https://raw.githubusercontent.com/skthomasjr/Conversion/master/Build/NuGet/Package.png</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/skthomasjr/Conversion/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/skthomasjr/Conversion</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
